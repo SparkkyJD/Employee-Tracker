@@ -20,7 +20,7 @@ View and manage the departments, roles, and employees in your company
 Clone repo into your own
 
 ## Usage Instructions
-npm init
+npm init <br>
 npm i express inquirer mysql2
 clone files to your repo
 mysql -u root -p
