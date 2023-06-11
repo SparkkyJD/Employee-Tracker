@@ -4,17 +4,17 @@
 ## Description
 View and manage the departments, roles, and employees in your company
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage Instructions](#usage-instructions)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Questions](#questions)
+- [License Type](#license-type)
+
 ![License: MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen.svg)
 
 ## Screenshot
 ![Screenshot (35)](https://github.com/SparkkyJD/Employee-Tracker/assets/127361245/31284255-f4f7-42dc-a694-ab65bb10d3a2)
-
-
-## Table of Contents
-Installation
-Usage Instructions
-Questions
-License Type
 
 ## Installation
 Clone repo into your own
