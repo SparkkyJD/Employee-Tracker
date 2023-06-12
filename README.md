@@ -21,13 +21,13 @@ Clone repo into your own
 
 ## Usage Instructions
 npm init <br>
-npm i express inquirer mysql2
-clone files to your repo
-mysql -u root -p
- scorce schema.sql
- scorce seeds.sql
- \q
-node server.js (to run application) 
+npm i express inquirer mysql2 <br>
+clone files to your repo <br>
+mysql -u root -p <br>
+ scorce schema.sql <br>
+ scorce seeds.sql <br>
+ \q <br>
+node server.js (to run application) <br>
 
 ## Questions <a name="github"></a>
  Github Username: <a href="https://github.com/SparkkyJD">SparkkyJD</a>
