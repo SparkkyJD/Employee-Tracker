@@ -20,9 +20,9 @@ View and manage the departments, roles, and employees in your company
 Clone repo into your own
 
 ## Usage Instructions
+clone files to your repo <br>
 npm init <br>
 npm i express inquirer mysql2 <br>
-clone files to your repo <br>
 mysql -u root -p <br>
  scorce schema.sql <br>
  scorce seeds.sql <br>
