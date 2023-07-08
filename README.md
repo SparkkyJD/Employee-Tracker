@@ -4,6 +4,9 @@
 ## Description
 View and manage the departments, roles, and employees in your company
 
+## Demo Video 
+https://drive.google.com/file/d/1pqK4TyQ39ayuATubgUOxvyDlN2Tro2Pl/view
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage Instructions](#usage-instructions)
